@@ -1,8 +1,8 @@
 # Financial-Sales-Analysis 
 
 ## Project Overview
-This project analyzes Sales Performance MoM & YoY, Profitability, Discounts, Customers Behavior, Logistic Performance and Financial Performance by Region and Products using SQL for data cleaning and KPI calculations and Power BI for revalidation and visualization.
-The aim is to get insights in order to support better decisions in Sales, Discount ranges, Regions, Products, Operations and Customer Segmentations.
+This project analyzes Sales Performance (MoM & YoY), Profitability, Discounts, Customer Behavior, Logistic Performance, and Financial Performance by Region and Product using SQL for data cleaning and KPI calculations, and Power BI for validation and visualization.
+The goal is to uncover insights that support better decision-making in Sales, Discount Strategies, Regional and Product Performance, Operations, and Customer Segmentation.
 
 ---
 
@@ -44,14 +44,21 @@ The dataset contains sales data for a retail store:
     - Checked inconsitencies
 - Created view with cleaned data (vw_CleanSuperstoreBI)
 ### 2) KPI Analysis
-  -Finance and Profitability
+  - Finance and Profitability
   - Discount
   - Customers
   - Products
   - Regions
   - Time/Trends
   - Operations
-### 3) Power BI Dashboards  
+### 3) Power BI Dashboards   
+  - Sales & Profit over time
+  - Regional and state-level profitability
+  - Customer segmentation
+  - Discount impact visualization
+  - Interactive filters for category, region, and time
+  - Operations and Products Performance
+
   
 
 
