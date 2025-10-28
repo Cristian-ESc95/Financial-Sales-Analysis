@@ -1,4 +1,4 @@
-# Financial-Sales-Analysis 
+# Financial Sales Analysis 
 
 ## Project Overview
 This project analyzes Sales Performance (MoM & YoY), Profitability, Discounts, Customer Behavior, Logistic Performance, and Financial Performance by Region and Product using SQL for data cleaning and KPI calculations, and Power BI for validation and visualization.
