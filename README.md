@@ -65,7 +65,7 @@ The dataset contains sales data for a retail store:
 
 ### Example Charts
 
-https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Profitability.png
+![Descripción de la imagen](https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Profitability.png)
 
 
 
