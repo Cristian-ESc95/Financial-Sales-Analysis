@@ -8,7 +8,7 @@ The goal is to uncover insights that support better decision-making in Sales, Di
 
 ## Tech Stack 
 - SQL Server Managment - Data cleaning and KPI calculation.
-- Power BI - Revalidation and Visualization.
+- Power BI - Revalidation and Visualization. financial sales.pbix
 - Excel/CSV - Source Dataset.
 
 ## Dataset Description
