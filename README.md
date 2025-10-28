@@ -63,6 +63,16 @@ The dataset contains sales data for a retail store:
   - Interactive filters for category, region, and time
   - Operations and Products Performance
 
+## Example Charts
+
+Dashboards_Screenshots/Profitability.png
+
+
+
+
+
+
+
 ## Key Insights
 - Technology and Office Supplies are the most profitable categories. Furniture generates a lot of revenue but contributes very little to profit. I would recomend analyzing costs or pricing strategy.
 - Tables (Furniture), Bookcases (Furniture), and Supplies (Office Supplies) generate negative profit. I recommend reviewing their pricing or supplier costs, or considering discontinuing these products.
