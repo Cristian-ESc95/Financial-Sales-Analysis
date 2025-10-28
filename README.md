@@ -10,9 +10,9 @@ The goal is to uncover insights that support better decision-making in Sales, Di
 - SQL Server Managment - Data cleaning and KPI calculation.
    👉 [SQL Code](SQLQuery1.sql)
 - Power BI - Revalidation and Visualization.
-   👉 [Dashboard Screenshot](Dashboards Screenshots)
+   👉 [Dashboard Screenshot](Dashboards Screenshots).
 - Excel/CSV - Source Dataset.
-  👉 [Dataset File](DataSet/superstore_dataset.xlsx)
+  👉 [Dataset File](DataSet/sample_-_superstore.xls)
 
 ## Dataset Description
 
