@@ -12,7 +12,7 @@ The goal is to uncover insights that support better decision-making in Sales, Di
 - Power BI - Revalidation and Visualization.
    👉 [Dashboard Screenshot](Dashboards Screenshots).
 - Excel/CSV - Source Dataset.
-  👉 [Dataset File](DataSet/sample_-_superstore.xls)
+  👉 [Dataset File](DataSet)
 
 ## Dataset Description
 
