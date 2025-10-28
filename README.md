@@ -9,8 +9,10 @@ The goal is to uncover insights that support better decision-making in Sales, Di
 ## Tech Stack 
 - SQL Server Managment - Data cleaning and KPI calculation.
    👉 [SQL Code](SQLQuery1.sql)
-- Power BI - Revalidation and Visualization. 
+- Power BI - Revalidation and Visualization.
+   👉 [Dashboard Screenshot](Dashboards%20Screenshots/dashboard1.png)
 - Excel/CSV - Source Dataset.
+  👉 [Dataset File](DataSet/superstore_dataset.xlsx)
 
 ## Dataset Description
 
