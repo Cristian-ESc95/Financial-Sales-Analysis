@@ -63,19 +63,18 @@ The dataset contains sales data for a retail store:
   - Interactive filters for category, region, and time
   - Operations and Products Performance
 
-### Example Charts: 
+### Example Charts
 
 #### Financial Overview: 
 
 ![Financial Overview](https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Overview.png)
 
-#### Profitability: 
+#### Profitability:
+
 ![Profitability](https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Profitability.png)
 
-#### Products/Discounts:
-![Products/Discounts](https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Products%20%26%20Discounts.png)
-
 #### Regions:
+
 ![Regions](https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Regions.png)
 
 
