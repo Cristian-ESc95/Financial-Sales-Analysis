@@ -8,7 +8,7 @@ The goal is to uncover insights that support better decision-making in Sales, Di
 
 ## Tech Stack 
 - SQL Server Managment - Data cleaning and KPI calculation.
-   https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/SQLQuery1.sql    
+   👉 [SQL Code](SQLQuery1.sql)
 - Power BI - Revalidation and Visualization. 
 - Excel/CSV - Source Dataset.
 
