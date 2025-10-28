@@ -11,6 +11,7 @@ The goal is to uncover insights that support better decision-making in Sales, Di
    👉 [SQL Code](SQLQuery1.sql)
 - Power BI - Revalidation and Visualization.
    👉 [Dashboard Screenshot](Dashboards_Screenshots)
+   👉 [Dashboard Screenshot](financial sales.pbix)
 - Excel/CSV - Source Dataset.
   👉 [Dataset File](DataSet)
 
