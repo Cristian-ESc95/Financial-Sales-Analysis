@@ -6,11 +6,11 @@ This project leverages SQL for data cleaning and KPI calculations, and Power BI 
 ---
 
 ## Tech Stack 
-- SQL Server Managment - Data cleaning and KPI calculation.
+- SQL Server Managment Studio (SSMS) - Data cleaning and KPI calculation.
    👉 [SQL Code](SQLQuery1.sql)
 - Power BI - Revalidation and Visualization.
-   👉 [Dashboards Screenshots](Dashboards_Screenshots)
-   👉 [Dashboards Power BI ](financial_sales.pbix)
+   👉 [Power BI Dashboards  Screenshots](Dashboards_Screenshots)
+   👉 [Power BI Dashboards ](financial_sales.pbix)
 - Excel/CSV - Source Dataset.
   👉 [Dataset File](DataSet)
 
