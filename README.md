@@ -110,9 +110,5 @@ The dataset contains sales data for a retail store:
 
 
 
----"Para más detalles sobre el código y la implementación de los cálculos de KPIs, revisa el archivo de código SQL en el repositorio: SQL Code
-."
-
-
 
 
