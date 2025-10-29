@@ -1,8 +1,7 @@
 # Financial Sales Analysis 
 
 ## Project Overview
-This project analyzes Sales Performance (MoM & YoY), Profitability, Discounts, Customer Behavior, Logistic Performance, and Financial Performance by Region and Product using SQL for data cleaning and KPI calculations, and Power BI for validation and visualization.
-The goal is to uncover insights that support better decision-making in Sales, Discount Strategies, Regional and Product Performance, Operations, and Customer Segmentation.
+This project leverages SQL for data cleaning and KPI calculations, and Power BI for validation and visualization, to analyze and uncover insights into Sales, Profitability, Discounts, Customer Behavior, Logistics, and Regional/Product Performance. The goal is to help improve decision-making across sales, discount strategies, regional performance, and customer segmentation.
 
 ---
 
