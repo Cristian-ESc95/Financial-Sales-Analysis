@@ -85,14 +85,19 @@ The dataset contains sales data for a retail store:
 -  Discounts beyond 20% destroy Profit Margin.
 
 ### Customers
-- Products such as Labels and Envelopes have excellent profit margins but lower sales volumes. Consider marketing these more aggressively or bundling them with popular items to increase their total contribution.
-
 - High-revenue customers don't always generate high profit (Sean Miller, Ken Londsdale, Sanjit Engle, Christopher Conant).Consider launching a loyalty program or targeted promotions to reward the most profitable customers and strengthen long-term relationships.
-- Loss-making customers represent 18,07%. It's recommended to optimise discount policies to reduce negative margins.
+- Loss-making customers represent 18%. It's recommended to optimise discount policies to reduce negative margins.
+
+### Products
+
+- Labels and Envelopes have excellent profit margins but lower sales volumes. These could be promoted or bundled with popular items to increase total contribution.
+- Some high-revenue products generate significant sales but result in negative profit. Pricing strategies, supplier costs and apllied discounts should be reviewed to identify the cause of these losses.It is also recommended to promote high-profit product in order to maximeize overall profitability.
+
+### Regional Performance
 - The company generates $2.30M in revenue with a profit margin of 12.49%, showing solid but uneven regional performance. West and East drive most of the company's profit led by California and New York. Consider to analyze the cost structure, particularly logistic and distribution expenses in states with low or negative profit margins.
 - The average shipping time across all regions is 3.9. Although overall delivery performance is consistent, there are some outliers such as District of Columbia, Maine and Wyoming (5+ days) which are well above the average. Optimizing shipping times is crucial to enhance customer satisfaction and improve financial performance.
 - Some states, including California, New York, Washington and Texas show a high total delay. However, their average shipping time remains around 3.9 days, indicating that these delays are caused by a small number of cases rather than a systemic issue. This suggest that overall logistics efficiency is strong but there may be an opportunity to reduce outliers and further improve delivery efficency.
-- Some high-revenue products generate significant sales but result in negative profit. Pricing strategies, supplier costs and apllied discounts should be reviewed to identify the cause of these losses.It is also recommended to promote high-profit product in order to maximeize overall profitability.
+
 - During early months of 2014 and 2017, both revenue and profit showed high volatility. Despite fluctuations, the overall MoM growth averages were +3.79% for revenue and +3.20% for profit. Also the seasonality analysis reveals that November, December and September are the strongests months for sales. In contrast, January and February show lower revenues. This insight suggests an opportunity to leverage marketing and promotional strategies during low-demand months.
 
 ---"Para más detalles sobre el código y la implementación de los cálculos de KPIs, revisa el archivo de código SQL en el repositorio: SQL Code
