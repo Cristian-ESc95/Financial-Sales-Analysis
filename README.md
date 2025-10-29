@@ -80,11 +80,11 @@ The dataset contains sales data for a retail store:
 ### Profitability
 -  Technology and Office Supplies are the most profitable categories. Furniture generates a lot of revenue but contributes very little to profit. I would recomend analyzing costs or pricing strategy.
 - Tables (Furniture), Bookcases (Furniture), and Supplies (Office Supplies) generate negative profit. Consider reviewing pricing structure, renegotiating supplier costs or discontinuing these products.
-- Around 20% of the products sold (mainly Copiers, Phones, and Accessories) generate nearly 80% of the company’s overall profit. However, not all of them have strong margins. Negotiating better supplier terms could help increase profitability.
+- Around 20% of the products sold generate nearly 80% of the company’s overall profit. However, not all of them have strong margins. Negotiating better supplier terms could help increase profitability.
 -  Discounts beyond 20% destroy Profit Margin.
 
 ### Customers
-- High-revenue customers don't always generate high profit (Sean Miller, Ken Londsdale, Sanjit Engle, Christopher Conant).Consider launching a loyalty program or targeted promotions to reward the most profitable customers and strengthen long-term relationships.
+- High-revenue customers don't always generate high profit. Consider launching a loyalty program or targeted promotions to reward the most profitable customers and strengthen long-term relationships.
 - Loss-making customers represent 18%. It's recommended to optimise discount policies to reduce negative margins.
 
 ### Products
