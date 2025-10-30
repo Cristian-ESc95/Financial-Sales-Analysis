@@ -1,11 +1,13 @@
 # Financial Sales Analysis 
 
 ## Project Overview
+
 This project leverages SQL for data cleaning and KPI calculations, and Power BI for validation and visualization, to analyze and uncover insights into Sales, Profitability, Discounts, Customer Behavior, Logistics, and Regional/Product Performance. The goal is to help improve decision-making across sales, discount strategies, regional performance, and customer segmentation.
 
 ---
 
 ## Tech Stack 
+
 - SQL Server Managment Studio (SSMS) - Data cleaning and KPI calculation.
    👉 [SQL Code](SQLQuery1.sql)
 - Power BI - Revalidation and Visualization.
@@ -79,7 +81,8 @@ The dataset contains sales data for a retail store:
 
 ### Profitability
 -  Technology and Office Supplies are the most profitable categories. Furniture generates a lot of revenue but contributes very little to profit. I would recomend analyzing costs or pricing strategy.
-- Tables (Furniture), Bookcases (Furniture), and Supplies (Office Supplies) generate negative profit. Consider reviewing pricing structure, renegotiating supplier costs or discontinuing these products.
+- Labels and Envelopes have excellent profit margins but lower sales volumes. These could be promoted or bundled with popular items to increase total contribution.
+- Some subcategories generate negative profit. Consider reviewing pricing structure, renegotiating supplier costs or discontinuing these products.
 - Around 20% of the products sold generate nearly 80% of the company’s overall profit. However, not all of them have strong margins. Negotiating better supplier terms could help increase profitability.
 -  Discounts beyond 20% destroy Profit Margin.
 
@@ -88,20 +91,16 @@ The dataset contains sales data for a retail store:
 - Loss-making customers represent 18%. It's recommended to optimise discount policies to reduce negative margins.
 
 ### Products
-
-- Labels and Envelopes have excellent profit margins but lower sales volumes. These could be promoted or bundled with popular items to increase total contribution.
 - Some high-revenue products generate significant sales but result in negative profit. Pricing strategies, supplier costs and apllied discounts should be reviewed to identify the cause of these losses.It is also recommended to promote high-profit product in order to maximeize overall profitability.
 
 ### Regional Performance
 -  West and East drive most of the company's profit led by California and New York. Consider to analyze the cost structure, particularly logistic and distribution expenses in states with low or negative profit margins.
 
 ### Operations
-
-- The average shipping time across all regions is 3.9. Although overall delivery performance is consistent, there are some outliers such as District of Columbia, Maine and Wyoming (5+ days) which are well above the average. Optimizing shipping times is crucial to enhance customer satisfaction and improve financial performance.
-- Some states, including California, New York, Washington and Texas show a high total delay. However, their average shipping time remains around 3.9 days, indicating that these delays are caused by a small number of cases rather than a systemic issue. This suggest that overall logistics efficiency is strong but there may be an opportunity to reduce outliers and further improve delivery efficency.
+- The average shipping time across all regions is 3.9. However, there are some outliers (5+ days) which are well above the average. Optimizing shipping times is crucial to enhance customer satisfaction and improve financial performance.
+- Some states show a high total delay. However, their average shipping time remains around 3.9 days, indicating that these delays are caused by a small number of cases rather than a systemic issue. This suggest that overall logistics efficiency is strong but there may be an opportunity to reduce outliers and further improve delivery efficency.
 
 ### Trends and Seasonality
-
 - Revenue and profit were volatile in early 2014 and 2017, but overall month-over-month growth remained positive: +3.79% for revenue and +3.20% for profit.
 - The strongest months for sales are November, December, and September, while January and February show lower revenue. These periods present opportunities for marketing and promotional campaigns to boost sales.
 
