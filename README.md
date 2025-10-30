@@ -105,8 +105,11 @@ The dataset contains sales data for a retail store:
 - Revenue and profit were volatile in early 2014 and 2017, but overall month-over-month growth remained positive: +3.79% for revenue and +3.20% for profit.
 - The strongest months for sales are November, December, and September, while January and February show lower revenue. These periods present opportunities for marketing and promotional campaigns to boost sales.
 
+## Summary of Business Impact
 
+This project identifies profit leakages and optimization opportunities in pricing, discounting, and logistics, providing actionable insights that could improve profit margin through data-driven decisions.
 
+## Summary of Business Impact
 
 
 
