@@ -64,7 +64,7 @@ The dataset contains sales data for a retail store:
   - Interactive filters for category, region, and time
   - Operations and Products Performance
 
-### Example Dashboards
+### Example Dashboards Screenshots
 
 
 ![Financial Overview](https://github.com/Cristian-ESc95/Financial-Sales-Analysis/blob/main/Dashboards_Screenshots/Overview.png)
