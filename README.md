@@ -109,7 +109,6 @@ The dataset contains sales data for a retail store:
 
 This project identifies profit leakages and optimization opportunities in pricing, discounting, and logistics, providing actionable insights that could improve profit margin through data-driven decisions.
 
-## Summary of Business Impact
 
 
 
